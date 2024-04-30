@@ -207,7 +207,7 @@ body{
   left: -200px;
   z-index: 98;
 }
-.cat-tyawi{
+.cat-minecraft{
   background-image: url(image/tyawi.png);
   width: 150px;
   height: 100px;
@@ -232,7 +232,7 @@ body{
     transform: translateX(1200px) ;
   }
 }
-.cat-tyawi:hover{
+.cat-minecraft:hover{
   
   background-repeat: no-repeat;
   background-size:contain;
